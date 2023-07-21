@@ -1,0 +1,12 @@
+name: User Password Reset Link Timeout
+description: Presents a UI element to set the user password reset link timeout.
+core_version_requirement: ^8.8 || ^9 || ^10
+type: module
+configure: entity.user.admin_form
+dependencies:
+  - drupal:user
+
+# Information added by Drupal.org packaging script on 2023-02-27
+version: '8.x-1.3'
+project: 'user_pwreset_timeout'
+datestamp: 1677466019

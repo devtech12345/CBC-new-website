@@ -1,0 +1,8 @@
+drwxrwxr-x 12 i2k2admin i2k2admin   4096 Jul  4  2022 core
+drwxrwxr-x  9 i2k2admin i2k2admin    126 Feb 28 13:47 libraries
+drwxrwxr-x  3 i2k2admin i2k2admin     39 Jul  4  2022 modules
+drwxrwxr-x  2 i2k2admin i2k2admin     24 Jul  4  2022 profiles
+drwxr-xr-x  2 root      root         204 Apr 17 11:56 script-output
+drwxrwxr-x  3 i2k2admin i2k2admin    130 Jul  4  2022 sites
+drwxrwxr-x  4 i2k2admin i2k2admin     52 Jul  4  2022 themes
+drwxrwxr-x 19 i2k2admin i2k2admin    310 Jul  4  2022 vendor
